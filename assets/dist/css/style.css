@@ -1,0 +1,75 @@
+body{
+    background-color: #D6EAF8;
+}
+.border-title{
+  border-color: black;
+  border-width:  0px 0px 1px 0px;
+  border-style: solid;
+  
+}
+.border-footer{
+  border-color: black;
+  border-width:  1px 0px 0px 0px;
+  border-style: solid;
+  
+}
+  .color-butons{
+      background-color:#6528e0;
+      color: white;
+    }
+
+  .color-butons:hover{
+      background-color:#5a23c8;
+      color: white;}
+  
+  .custom-btns{
+      color: #6528e0;
+  }
+
+  .custom-btns:hover{
+      color:#5a23c8;}
+
+  .nav-item{
+      font-size: 19px;}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+.b-example-divider {
+  width: 100%;
+  height: 3rem;
+  background-color: rgba(0, 0, 0, .1);
+  border: solid rgba(0, 0, 0, .15);
+  border-width: 1px 0;
+  box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+
+.b-example-vr {
+  flex-shrink: 0;
+  width: 1.5rem;
+  height: 100vh;
+}
+
+.bi {
+  vertical-align: -.125em;
+  fill: currentColor;
+}
+
+
+.p-image{
+    margin: 0px 0px 30px 0px
+}
+.alb-project{
+    background-color: #fff;
+}
