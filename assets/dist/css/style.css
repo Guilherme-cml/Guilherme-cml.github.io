@@ -73,3 +73,10 @@ body{
 .alb-project{
     background-color: #fff;
 }
+.circular-image {
+  width: 200px; 
+  height: 230px; 
+  border-radius: 50%;
+  object-fit: cover;
+  overflow: hidden;
+}
