@@ -14,20 +14,20 @@ body{
   
 }
   .color-butons{
-      background-color:#6528e0;
+      background-color:#5eb3ec;
       color: white;
     }
 
   .color-butons:hover{
-      background-color:#5a23c8;
+      background-color:#388dc5;
       color: white;}
   
   .custom-btns{
-      color: #6528e0;
+      color: #51ace9;
   }
 
   .custom-btns:hover{
-      color:#5a23c8;}
+      color:#388dc5;}
 
   .nav-item{
       font-size: 19px;}
